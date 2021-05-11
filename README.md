@@ -1,0 +1,3 @@
+- Hi. My name is Alexandr.
+-I stady in School_21.
+- I whant to become soft developer.
